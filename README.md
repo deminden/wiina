@@ -1,3 +1,5 @@
+> This repository is retired. Development continues in [deminden/riina](https://github.com/deminden/riina), preserving this project’s history.
+
 # wiina
 
 Independent Rust reimplementation of IINA for Windows, targeting
